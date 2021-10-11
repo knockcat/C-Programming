@@ -6,8 +6,9 @@ int main()
      clrscr();
      int r, area;
      printf("ENTER RADIUS OF THE CIRCLE");
-     scanf r;
+     scanf("%d",&r);
      area=PI*r*r;
-     printf("AREA=>")area;
+     printf("AREA=> %d",area);
+  return 0;
  }
- return 0;
+

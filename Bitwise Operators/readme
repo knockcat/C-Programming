@@ -1,0 +1,4 @@
+This directory contians all the programs using bitwise operators .
+i.e & ( bitwise AND )
+    | ( bitwise OR )
+    ^ ( bitwise XOR )

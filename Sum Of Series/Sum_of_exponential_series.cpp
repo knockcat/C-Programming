@@ -1,4 +1,4 @@
-//1 ^2 – 2 ^3 + 3 ^2 – 4^ 3 + …………………..NP , where P=2 ,if N is odd otherwise P=3, if N is even.
+//1 ^2 â€“ 2 ^3 + 3 ^2 â€“ 4^ 3 + â€¦â€¦â€¦â€¦â€¦â€¦â€¦..NP , where P=2 ,if N is odd otherwise P=3, if N is even.
 
 #include <stdio.h>
 #include<math.h>
